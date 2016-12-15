@@ -1908,7 +1908,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     bottom: 15px; } }
 @media (min-width: 768px) {
   .mbr-right-padding-md-up {
-    padding-right: 85px; } }
+    padding-right: 60px; } }
+
+@media (min-width: 768px) {
+  .mbr-left-padding-md-up {
+    padding-left: 60px; } }
 
 .mbr-valign-top {
   vertical-align: top; }
@@ -2117,6 +2121,17 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
   margin-top: 2.3125rem; }
 .article .mbr-section-subtitle {
   margin-bottom: 0; }
+
+.content-size {
+  width: auto; }
+
+.image-size {
+  vertical-align: middle;
+  margin: auto; }
+
+@media (max-width: 768px) {
+  .image-size {
+    width: 100% !important; } }
 
 /*# sourceMappingURL=style.css.map */
 .engine {

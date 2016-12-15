@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -480,6 +480,7 @@ h6,
 
 
 
+
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -552,6 +553,12 @@ h6,
   text-align: right;
   font-family: 'Montserrat', sans-serif;
   font-size: 46px;
+}
+#content1-2x P {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -630,12 +637,16 @@ h6,
 #content1-2r P {
   text-align: center;
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box8-2t .mbr-section-title,
 #msg-box8-2t p {
   color: #fff;
 }
+
+
+
+
 
 
 
@@ -714,6 +725,38 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 46px;
 }
+#msg-box6-2z .mbr-section-title,
+#msg-box6-2z .lead p {
+  color: #fff;
+}
+#msg-box6-2z P {
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box6-30 .mbr-section-title,
+#msg-box6-30 .lead p {
+  color: #fff;
+}
+#msg-box6-30 P {
+  text-align: right;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box6-31 .mbr-section-title,
+#msg-box6-31 .lead p {
+  color: #fff;
+}
+#msg-box6-31 P {
+  font-family: 'PT Sans', sans-serif;
+  text-align: left;
+}
+#msg-box6-32 .mbr-section-title,
+#msg-box6-32 .lead p {
+  color: #fff;
+}
+#msg-box6-32 P {
+  font-family: 'PT Sans', sans-serif;
+  text-align: right;
+}
 
 
 
@@ -791,6 +834,8 @@ h6,
 }
 
 
+
+
 #ext_menu-2l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -862,6 +907,34 @@ h6,
   color: #ffffff;
   font-size: 46px;
 }
+#msg-box6-34 .mbr-section-title,
+#msg-box6-34 .lead p {
+  color: #fff;
+}
+#msg-box6-34 P {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box6-36 .mbr-section-title,
+#msg-box6-36 .lead p {
+  color: #fff;
+}
+#msg-box6-37 .mbr-section-title,
+#msg-box6-37 .lead p {
+  color: #fff;
+}
+#msg-box6-37 P {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box6-38 .mbr-section-title,
+#msg-box6-38 .lead p {
+  color: #fff;
+}
+#msg-box6-39 .mbr-section-title,
+#msg-box6-39 .lead p {
+  color: #fff;
+}
+
+
 
 
 #ext_menu-2o .hide-buttons .nav-btn {
@@ -934,4 +1007,18 @@ h6,
 #header3-2p H3 {
   color: #ffffff;
   font-size: 46px;
+}
+#msg-box6-3a .mbr-section-title,
+#msg-box6-3a .lead p {
+  color: #fff;
+}
+#msg-box6-3a P {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box6-3b .mbr-section-title,
+#msg-box6-3b .lead p {
+  color: #fff;
+}
+#msg-box6-3b P {
+  font-family: 'PT Sans', sans-serif;
 }
